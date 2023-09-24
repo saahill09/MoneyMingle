@@ -79,7 +79,7 @@ input[type="checkbox"] {
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
-    background-color: #f7f7f7;
+    background-color: #ffffff;
     color: #333;
     transition: border-color 0.3s ease-in-out;
 }
